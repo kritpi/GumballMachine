@@ -1,3 +1,4 @@
+//6510405300 Kritpiruch Chaiwong
 public class GumballMachine {
     private int gumball;
     private int quaters;
