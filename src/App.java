@@ -1,3 +1,4 @@
+//6510405300 Kritpiruch Chaiwong
 public class App {
     public static void main(String[] args) throws Exception {
         GumballMachine gumballMachine = new GumballMachine(20, 10);
@@ -6,3 +7,4 @@ public class App {
         gumballMachine.ejectsQuater();        
     }
 }
+
